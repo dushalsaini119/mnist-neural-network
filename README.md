@@ -44,9 +44,3 @@ Our objective is to build a **deep neural network** with:
 ## Results
 - Test Accuracy: ~97.4%
 - Validation accuracy closely matched test accuracy, indicating minimal overfitting
-
-## Key Learnings
-- End-to-end ML pipeline design
-- Neural network training and evaluation
-- Data preprocessing and batching using TensorFlow
-- Model generalization and overfitting control
